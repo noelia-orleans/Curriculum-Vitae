@@ -111,7 +111,7 @@ function App() {
 
             <div className="item-experiencia">
               <h3>Análisis de Datos mediante el Consumo de una API</h3>
-              <p>Proyecto de análisis exploratorio de datos mediante el consumo de APIs. Integración de TheDogApi con Python para obtener, limpiar y transformar datos sobre distintas razas de perros. Análisis de la distribución de la esperanza de vida y de los temperamentos más frecuentes mediante Pandas y visualizaciones gráficas con Matplotlib/Seaborn.</p>
+              <p>Proyecto de análisis exploratorio de datos mediante el consumo de TheDogAPI</p>
               <a href="https://github.com/NoeliaORLO/Analisis-BD-Perros-API" target='_blank'>Enlace a Github</a>
             </div>
 
